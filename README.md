@@ -24,8 +24,8 @@ Você pode acessar o site pelo link abaixo:
 
 Feito com ❤️ por **Patrik Kenedy**.  
 - 🌐 [Meu Portfólio](http://kenedydev.com.br)  
-- 📧 [contato@kenedydev.com.br](mailto:contato@kenedydev.com.br)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kenedy)
+- 📧 [contato@kenedydev.com.br](mailto:patrik@kenedydev.com.br)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrik-kenedy-b18b48225/)
 
 ---
 
